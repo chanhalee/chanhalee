@@ -1,7 +1,6 @@
 
 <a href="https://profile.intra.42.fr/users/chanhale" target="_blank"><img src="https://img.shields.io/badge/Seoul-FFFFFF?style=flat&logo=42&logoColor=000000"/></a>
 <a href="https://medium.com/@chanhale" target="_blank"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=flat&logo=Medium&logoColor=000000"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MAN-0B2C4A?style=flat&logo=ActiGraph&logoColor=white"/></a>
 <a href="https://impartial-football-ec0.notion.site/Study-8304d464c65c49358c72684064694755" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
 
 
