@@ -1,7 +1,7 @@
 --------
 
 
-__[개인 블로그 링크](https://chanhalee.github.io)__
+__[개인 블로그 링크](https://sincerity.page)__
 
 
 --------
