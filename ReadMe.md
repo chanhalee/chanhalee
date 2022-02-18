@@ -1,7 +1,7 @@
 --------
 
 
-__[개인 블로그 링크](https://sincerity.page)__
+__개인 블로그__: [https://sincerity.page](https://sincerity.page) 
 
 
 --------
